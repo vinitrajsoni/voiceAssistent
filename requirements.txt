@@ -1,0 +1,5 @@
+streamlit
+pyaudio
+requests
+langchain
+langchain-groq
